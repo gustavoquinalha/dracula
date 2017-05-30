@@ -1,0 +1,18 @@
+@import 'colors';
+
+.container {
+  display: flex;
+}
+.text-left {
+  text-align: left
+}
+.text-center {
+  text-align: center
+}
+.text-right {
+  text-align: right
+}
+.center {
+  justify-content: center;
+  align-items: center;
+}
